@@ -17,7 +17,8 @@
 
 ## Lectures and Materials
 
-+ Will be posted before class
++ Due to COVID-19, the classes will be asynchronous.
++ The lecturer will post materials before class.
 
 ### Installation guide
 
