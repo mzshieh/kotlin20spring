@@ -8,11 +8,14 @@
 +   Learn the fundamentals of Kotlin programming
 +   Learn how to develop Android app with Kotlin
 
+## Textbook
+
++ [Kotlin Programming: The Big Nerd Ranch Guide 1st Edition](https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide-ebook/dp/B07FXQ7SQN)
+
 ## References
 
 + [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html)
 + [Head First Kotlin: A Brain-Friendly Guide 1st Edition](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide-ebook/dp/B07NPZ21QP)
-+ [Kotlin Programming: The Big Nerd Ranch Guide 1st Edition](https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide-ebook/dp/B07FXQ7SQN)
 + References for Android: TBD
 
 ## Lectures and Materials
