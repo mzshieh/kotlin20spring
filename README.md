@@ -22,10 +22,13 @@
 
 + Due to COVID-19, the classes will be asynchronous.
 + The lecturer will post materials before class.
++ [Lecture Videos](https://drive.google.com/open?id=10WexRjBzionhAyHhyqT4qDNpN2-mao9q)
++ Lecture notes
+    +   [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/SyIQFblrL)
 
 ### Installation guide
 
-+ IntelliJ: TBA
++ IntelliJ: See [this](https://drive.google.com/open?id=1-fJmTNAR0P9IxAERM_Dy_rDF_tyMrFYw)
 + Android Studio: TBA
 
 ## Term Poject
