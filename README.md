@@ -25,6 +25,7 @@
 + [Lecture Videos](https://drive.google.com/open?id=10WexRjBzionhAyHhyqT4qDNpN2-mao9q)
 + Lecture notes
     +   [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/SyIQFblrL)
+    +   [Lecture 2](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/H1uBA1RBL)
 
 ### Installation guide
 
