@@ -26,6 +26,7 @@
 + Lecture notes
     +   [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/SyIQFblrL)
     +   [Lecture 2](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/H1uBA1RBL)
+    +   [Lecture 3](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/H1sQrQP8U)
 
 ### Installation guide
 
