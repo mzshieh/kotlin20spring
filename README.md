@@ -30,6 +30,7 @@
     +   [Lecture 4](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/HyYCs7iPI)
     +   [Lecture 5](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/Hy7ZLkfuI)
     +   [Lecture 6](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/r1f4lt2u8)
+    +   [Midterm Project Hints](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJQotn8FL)
 
 ### Installation guide
 
