@@ -33,6 +33,8 @@
     +   [Midterm Project Hints](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJQotn8FL)
     +   [Lecture 7](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rk7Cos15U)
     +   [Lecture 8](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJ09J0L9U)
++ Slides for Android Programming
+    +   [Slide 01](https://docs.google.com/presentation/d/1w-4_qG849bpAQnSsZvRVNRIraUdIHw2Cwe8tqU4-aLc/mobilepresent#slide=id.p)
 
 ### Installation guide
 
