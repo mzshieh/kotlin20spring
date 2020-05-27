@@ -35,7 +35,9 @@
     +   [Lecture 8](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJ09J0L9U)
     +   [Lecture 9](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJl1EJv9L)
 + Slides for Android Programming
-    +   [Slide 01](https://docs.google.com/presentation/d/1w-4_qG849bpAQnSsZvRVNRIraUdIHw2Cwe8tqU4-aLc/mobilepresent#slide=id.p)
+    +   [KotlinDemo](https://github.com/lgthbo/KotlinDemo)
+    +   [Slide 01](https://docs.google.com/presentation/d/1w-4_qG849bpAQnSsZvRVNRIraUdIHw2Cwe8tqU4-aLc/)
+    +   [Slide 02](https://docs.google.com/presentation/d/19Uo-eXxBEV3qMivn3WycwK8cZvOEsMoO-0VaO4RtUXk/)
 
 ### Installation guide
 
