@@ -35,6 +35,7 @@
     +   [Lecture 8](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJ09J0L9U)
     +   [Lecture 9](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJl1EJv9L)
     +   [Lecture 10](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJXUZTij8)
+    +   [Lecture 11](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/S1Vpo802I)
 + Slides for Android Programming
     +   [KotlinDemo](https://github.com/lgthbo/KotlinDemo)
     +   [Slide 01](https://docs.google.com/presentation/d/1w-4_qG849bpAQnSsZvRVNRIraUdIHw2Cwe8tqU4-aLc/)
