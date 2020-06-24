@@ -41,6 +41,7 @@
     +   [Slide 01](https://docs.google.com/presentation/d/1w-4_qG849bpAQnSsZvRVNRIraUdIHw2Cwe8tqU4-aLc/)
     +   [Slide 02](https://docs.google.com/presentation/d/19Uo-eXxBEV3qMivn3WycwK8cZvOEsMoO-0VaO4RtUXk/)
     +   [Slide 03](https://docs.google.com/presentation/d/10pTZtxkVamOfh9IOg-thwXdXptcZKvpaYOd69_w-hSY/)
+    +   [Slide 04](https://docs.google.com/presentation/d/1dEHIDcqJ6J6Xew0TdsV7gPMRX-m9-vicDcm5aw2D9rI/)
 
 ### Installation guide
 
